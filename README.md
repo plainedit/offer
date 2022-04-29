@@ -2,6 +2,15 @@
 
 PLAINEDIT takes markdown, evaluates code blocks with interpreters and prints the output of those processes to a different codeblock.
 
+## MENU
+
++ [Sourcecode - bash.plainedit.com](http://bash.plainedit.com/)
++ [Website - www.plainedit.com](http://www.plainedit.com/)
++ [News - blog.plainedit.com](http://blog.plainedit.com/)
++ [Usecases - examples.plainedit.com](http://examples.plainedit.com/)
+
+## About  PlainEdit 
+
 ### USAGE
 
 + can be repeated many times such report with sending as content or attachement in e-mail message
@@ -22,3 +31,8 @@ PLAINEDIT takes markdown, evaluates code blocks with interpreters and prints the
   + image- jpg,png,gif
   + html website, e.g CURL command -> screenshoot image
 
+
+---
+
++ [edit](https://github.com/plainedit/offer/edit/main/README.md)
++ [plainedit/offer](https://github.com/plainedit/offer)
