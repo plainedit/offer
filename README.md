@@ -2,8 +2,6 @@
 
 PLAINEDIT takes markdown, evaluates code blocks with interpreters and prints the output of those processes to a different codeblock.
 
-## MENU
-
 + [Sourcecode - bash.plainedit.com](http://bash.plainedit.com/)
 + [Website - www.plainedit.com](http://www.plainedit.com/)
 + [News - blog.plainedit.com](http://blog.plainedit.com/)
@@ -32,7 +30,26 @@ PLAINEDIT takes markdown, evaluates code blocks with interpreters and prints the
   + html website, e.g CURL command -> screenshoot image
 
 
+### Use Cases:
+
+## Community
+
++ Schools
++ Bootcamps
+
+
+## Usage 
+
++ Tutorials with live code examples
++ Trainings offline / online with live coding
++ Documentation on sever side for DevOps, Fullstack Devs
++ Reports, import export settings from differents server at one moment, at one time
+
+
+
 ---
+
+You can use the to maintain and preview the content for your website in Markdown files:
 
 + [edit](https://github.com/plainedit/offer/edit/main/README.md)
 + [plainedit/offer](https://github.com/plainedit/offer)
