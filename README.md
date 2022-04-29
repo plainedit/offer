@@ -1,11 +1,15 @@
+![logo](http://logo.plainedit.com/2/cover.png)
+
 # [offer.plainedit.com](http://offer.plainedit.com/)
 
 PLAINEDIT takes markdown, evaluates code blocks with interpreters and prints the output of those processes to a different codeblock.
 
++ [Usecases - examples.plainedit.com](http://examples.plainedit.com/)
++ [Documentation - docs.plainedit.com](http://docs.plainedit.com/)
 + [Sourcecode - bash.plainedit.com](http://bash.plainedit.com/)
 + [Website - www.plainedit.com](http://www.plainedit.com/)
 + [News - blog.plainedit.com](http://blog.plainedit.com/)
-+ [Usecases - examples.plainedit.com](http://examples.plainedit.com/)
++ [logo.apimacro.com](https://logo.apimacro.com/)
 
 ## About  PlainEdit 
 
